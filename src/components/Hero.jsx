@@ -43,7 +43,7 @@ export default function Hero() {
               </a>
               
               <div className="flex items-center gap-4 mt-4 sm:mt-0">
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="p-4 rounded-full bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white transition-colors">
+                <a href="https://github.com/Akash9634" target="_blank" rel="noopener noreferrer" className="p-4 rounded-full bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white transition-colors">
                   <Github className="w-6 h-6" />
                 </a>
                 <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-4 rounded-full bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-indigo-400 transition-colors">
